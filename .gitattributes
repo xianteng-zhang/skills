@@ -1,0 +1,5 @@
+# 统一换行符：仓库内一律 LF（技能里的命令示例对换行敏感，CRLF 会污染 diff）
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
